@@ -97,8 +97,8 @@
 ## `五、CTF 與 Writeups（大一暑～大二下）`
 ![ctf-image ><](https://mike-asdf1346.github.io/mid-term/static/assets/img/flag-example.png)   
 
-打一點 CTF 跟撰寫一些心得或 Writeup。   
-然後每次完成題目後，盡量記錄過程：
+打一點 CTF 跟撰寫 Writeup。   
+然後每次完成題目後，盡量記錄過程像是：
 
 - 題目背景與目標
 - 解題思路
