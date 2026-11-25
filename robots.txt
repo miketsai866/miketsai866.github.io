@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Disallow: /static/assets/img/*.jpg
+Disallow: /static/assets/img/*.png

@@ -1,0 +1,44 @@
+title: 期中報告
+page-top-title: HOME
+top-section-bg-text: CYCU Information Management
+backgrounds:
+  - static/assets/background/cycu-banger.jpg
+  - static/assets/background/大草坪鐘塔.jpg
+background-interval-ms: 7000
+background-overlay: 0.52
+copyright-text: '&copy; Mike Tsai 2026 • All Rights Reserved.'
+github-link:
+  text: Github
+  href: https://github.com/miketsai866
+license-link:
+  text: License
+  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+sections: # 目錄連結
+  - id: home 
+    nav: 首頁 
+    title: 大學入門期中報告
+    href: '#page-top'
+  - id: education 
+    nav: 修課狀態 
+    title: 修課狀態 
+    #icon: bi-book-fill
+  - id: credits 
+    nav: 學分規劃 
+    title: 學分規劃 
+    #icon: bi-graph-up-arrow
+  - id: plan 
+    nav: 大學課程規劃
+    title: 大學課程規劃 
+  - id: programs 
+    nav: 跨領域學程規劃
+    title: 跨領域學程規劃 
+    #icon: bi-shield-lock-fill
+  - id: rollmap 
+    nav: 第二專長規劃 
+    title: 第二專長規劃 
+    #icon: bi-code-slash
+  - id: contact 
+    nav: 資料 
+    title: -- 資料 -- 
+    #icon: bi-envelope-fill
+  #remote_theme: pages-themes/time-machine@v0.2.0
